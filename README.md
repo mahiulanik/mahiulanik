@@ -1,4 +1,4 @@
-# Hi, I'm Mahiul Hasan Anik 👋
+# Hi, I'm Mahiul Hasan Anik
 
 ### Backend Developer | Node.js & Express.js
 
