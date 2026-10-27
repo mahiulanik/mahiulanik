@@ -4,12 +4,19 @@
 
 I build backend applications with a focus on RESTful APIs, authentication, database design, and maintainable server-side logic. I enjoy solving practical engineering problems and building full-stack applications that demonstrate real-world backend workflows.
 
-- 🔭 **Featured projects:** HRMSync, ShopRivo, and MessageX
-- ⚙️ **Backend:** Node.js, Express.js, REST APIs, JWT, middleware, and role-based access control
-- 🗄️ **Databases:** PostgreSQL, MongoDB, Mongoose, schema design, indexing, and query optimization
-- 🔐 **Security & integrations:** Authentication, authorization, Cloudinary, Stripe, and Clerk
-- 🌱 **Current focus:** Strengthening backend engineering, API design, database performance, and application security
-- 📍 **Location:** Dhaka, Bangladesh
+## 🛠️ Tech Stack
+
+### Backend Development
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,js)
+
+### Databases
+![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)
+
+### Tools
+![My Skills](https://skillicons.dev/icons?i=git,github,postman)
+
+### Frontend
+![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind)
 
 ---
 
